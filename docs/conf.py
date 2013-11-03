@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Corona build configuration file, created by
+# Williwaw build configuration file, created by
 # sphinx-quickstart on Sun Nov  3 08:57:38 2013.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -40,8 +40,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Corona'
-copyright = u'2013 Corona Project'
+project = u'Williwaw'
+copyright = u'2013 Williwaw Project'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -164,7 +164,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Coronadoc'
+htmlhelp_basename = 'Williwaw'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -183,8 +183,8 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'Corona.tex', u'Corona',
-   u'Corona Project', 'manual'),
+  ('index', 'Williwaw.tex', u'Williwaw',
+   u'Williwaw Project', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -213,8 +213,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'corona', u'Corona',
-     [u'Corona Project'], 1)
+    ('index', 'Williwaw', u'Williwaw',
+     [u'Williwaw Project'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -227,8 +227,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'Corona', u'Corona',
-   u'Corona Project', 'Corona', 'One line description of project.',
+  ('index', 'Williwaw', u'Williwaw',
+   u'Williwaw Project', 'Williwaw', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -245,10 +245,10 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'Corona'
-epub_author = u'Corona Project'
-epub_publisher = u'Corona Project'
-epub_copyright = u'2013, Corona Project'
+epub_title = u'Williwaw'
+epub_author = u'Williwaw Project'
+epub_publisher = u'Williwaw Project'
+epub_copyright = u'2013, Williwaw Project'
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.

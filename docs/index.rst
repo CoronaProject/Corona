@@ -1,10 +1,11 @@
-.. Corona documentation master file, created by
+.. Williwaw documentation master file, created by
    sphinx-quickstart on Sun Nov  3 08:57:38 2013.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Corona's documentation!
-==================================
+========
+Williwaw
+========
 
 Contents:
 
